@@ -8,6 +8,3 @@
 
 **Achievements**:successfully earned credit and and pass exams
 
-<iframe src="https://github.com/Tech-Ares/Student-Management-Travel-Website-1/blob/main/Student-Management-Travel-Website-1.pdf" width="600" height="400"></iframe>
-[點擊這裡查看 PDF](https://github.com/Tech-Ares/Student-Management-Travel-Website-1/blob/main/Student-Management-Travel-Website-1.pdf)
-
